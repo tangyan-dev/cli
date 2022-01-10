@@ -1,0 +1,12 @@
+{
+    "name": "@tangyansoft/cli-plugin-chrome-extension",
+    "version": "0.1.0",
+    "description": "",
+    "author": "The TangYan soft Team (https://tangyan.dev)",
+    "bugs": "",
+    "homepage": "",
+    "scripts": {},
+    "main": "index.js",
+    "keywords": [],
+    "license": "MIT"
+}

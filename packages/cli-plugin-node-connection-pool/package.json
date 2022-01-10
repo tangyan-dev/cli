@@ -1,0 +1,13 @@
+{
+    "name": "@tangyansoft/cli-plugin-node-connection-pool",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {},
+    "main": "index.js",
+    "description": "连接池",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": "",
+    "homepage": ""
+}

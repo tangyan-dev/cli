@@ -1,0 +1,13 @@
+{
+    "name": "@tangyansoft/cli-plugin-node-redis",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {},
+    "main": "index.js",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": "",
+    "homepage": ""
+}

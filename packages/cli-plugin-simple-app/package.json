@@ -1,0 +1,12 @@
+{
+    "name": "@tangyansoft/cli-plugin-simple-app",
+    "version": "0.1.0",
+    "scripts": {},
+    "main": "index.js",
+    "description": "",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": "",
+    "homepage": ""
+}

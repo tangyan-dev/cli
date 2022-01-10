@@ -1,0 +1,7 @@
+{
+  "name": "@tangyansoft/cli-plugin-template",
+  "version": "0.1.0",
+  "description": "插件模版",
+  "author": "The tangyan soft Team (https://tangyan.dev)",
+  "main": "index.js"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@tangyansoft/cli",
+  "version": "0.1.0",
+  "description": "",
+  "author": "The TangYan soft Team (https://tangyan.dev)",
+  "license": "MIT",
+  "bin": {
+    "nanshan": "./bin/cli.js",
+    "tangyansoft-cli": "./bin/cli.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@tangyansoft/toolkit-common": "^0.1.0",
+    "@tangyansoft/toolkit-node": "^0.1.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "debug": "^4.3.3",
+    "inquirer": "^8.2.0",
+    "minimist": "^1.2.5"
+  },
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  "devDependencies": {}
+}
